@@ -9,4 +9,5 @@
 ### PORT=5000
 
 ### USERNAME=blog-post
-### PASSWORD=fkUCCB-5xE7RNhe"# blog-post-server-risosi" 
+### PASSWORD=fkUCCB-5xE7RNhe"
+# blog-post-server-risosi" 
