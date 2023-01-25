@@ -15,6 +15,7 @@ const corsFonfig = {
     credentials: true,
 }
 
+
 app.use(cors(corsFonfig));
 app.options('*', cors(corsFonfig));
 app.use(bodyParser.json());
